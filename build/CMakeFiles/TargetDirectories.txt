@@ -1,0 +1,4 @@
+/home/razvan/Desktop/Proiect_RC/build/CMakeFiles/server.dir
+/home/razvan/Desktop/Proiect_RC/build/CMakeFiles/client.dir
+/home/razvan/Desktop/Proiect_RC/build/CMakeFiles/edit_cache.dir
+/home/razvan/Desktop/Proiect_RC/build/CMakeFiles/rebuild_cache.dir

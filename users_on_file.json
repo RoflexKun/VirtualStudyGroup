@@ -1,0 +1,26 @@
+[
+  {
+   "fileName": "bee_movie_script",
+   "users": []
+  },
+  {
+   "fileName": "big_text.txt",
+   "users": []
+  },
+  {
+   "fileName": "just some test",
+   "users": []
+  },
+  {
+   "fileName": "lotus-1205631_640.jpg",
+   "users": []
+  },
+  {
+   "fileName": "take it from the starz.mp3",
+   "users": []
+  },
+  {
+   "fileName": "test.txt",
+   "users": ["razvan", "test"]
+  }
+]

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/client.dir/client.cpp.o -o client  /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.15.3 /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.15.3 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.3 

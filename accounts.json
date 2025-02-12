@@ -1,0 +1,26 @@
+[
+  {
+    "username": "user1",
+    "password": "pass1",
+    "connected": false,
+    "descriptor": -1
+  },
+  {
+    "username": "razvan",
+    "password": "parola",
+    "connected": true,
+    "descriptor": 4
+  },
+  {
+    "username": "1",
+    "password": "1",
+    "connected": false,
+    "descriptor": -1
+  },
+  {
+    "username": "test",
+    "password": "test",
+    "connected": true,
+    "descriptor": 5
+  }
+]

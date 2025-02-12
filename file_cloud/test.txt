@@ -1,0 +1,29 @@
+ok
+
+ok se modifica fisierul!
+
+update 1: merge?
+
+facem o noua modificare
+
+merge asa
+
+ok atunci o sa fac asa?
+
+update 1: am facut o modificare
+
+update 2: acum mergi?
+
+update 3: ceva
+
+update 4: i understand it now!
+
+update 5: modific altceva
+
+update 6: inca ceva modificat care poate o sa ma faca sa inteleg ce se intampla!, poate?
+
+update 9: a mers in sfarsit(?)
+
+update 10: mai testam odata pentru noroc!!
+
+update 11: merge asa?
